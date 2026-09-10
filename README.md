@@ -226,3 +226,6 @@ This repository serves as the official landing page for ThatsaPC. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ThatsaPC today!**
+
+---
+**Last updated:** 2026-09-10 20:07:47 UTC
